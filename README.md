@@ -1,6 +1,8 @@
 ## 说明
 好客来 进销存供应链系统,基于QT跨平台 应用模块插件化，使用postgresql 数据库 可用于商品流通行业
 
+Original Repository: https://gitee.com/haokel/HaokeL-ERP
+
 ## 依赖
 1.Qt 4.8.4 
 
